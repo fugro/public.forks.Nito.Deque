@@ -1,6 +1,6 @@
 <Project>
   <PropertyGroup>
     <VersionPrefix>1.1.1</VersionPrefix>
-    <Authors>Stephen Cleary</Authors>
+    <Authors>Stephen Cleary, strong named by Fugro Discovery Team [FIT]</Authors>
   </PropertyGroup>
 </Project>
